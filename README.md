@@ -5,7 +5,7 @@
 <p>
 <p align="center">
   <img src="https://cloud.githubusercontent.com/assets/16008580/26643808/c9f3107e-465c-11e7-83fc-dcf22cd220b5.PNG" /><br>
-  https://youtu.be/LCVkdKcHRAY
+
 </p>
 
 <br>
